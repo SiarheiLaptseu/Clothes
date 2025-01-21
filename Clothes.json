@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White T-shirt",
+    "type": "T-shirts",
+    "color": "white",
+    "price": 85
+  },
+  {
+    "id": 2,
+    "name": "Black Oversized Hoodie",
+    "type": "Hoodie",
+    "color": "black",
+    "price": 110
+  },
+  {
+    "id": 3,
+    "name": "Slim Fit Blue Jeans",
+    "type": "Jeans",
+    "color": "blue",
+    "price": 120
+  },
+  {
+    "id": 4,
+    "name": "Summer Linen Shirt",
+    "type": "Shirts",
+    "color": "light blue",
+    "price": 95
+  },
+  {
+    "id": 5,
+    "name": "Gray Casual Shorts",
+    "type": "Shorts",
+    "color": "gray",
+    "price": 80
+  },
+  {
+    "id": 6,
+    "name": "Green Cargo Trousers",
+    "type": "Trousers",
+    "color": "green",
+    "price": 105
+  },
+  {
+    "id": 7,
+    "name": "Striped Cotton T-shirt",
+    "type": "T-shirts",
+    "color": "navy/white",
+    "price": 90
+  },
+  {
+    "id": 8,
+    "name": "Red Pullover Hoodie",
+    "type": "Hoodie",
+    "color": "red",
+    "price": 125
+  },
+  {
+    "id": 9,
+    "name": "Black Straight Jeans",
+    "type": "Jeans",
+    "color": "black",
+    "price": 130
+  },
+  {
+    "id": 10,
+    "name": "White Button-Down Shirt",
+    "type": "Shirts",
+    "color": "white",
+    "price": 115
+  },
+  {
+    "id": 11,
+    "name": "Denim Casual Shorts",
+    "type": "Shorts",
+    "color": "denim blue",
+    "price": 85
+  },
+  {
+    "id": 12,
+    "name": "Beige Chino Trousers",
+    "type": "Trousers",
+    "color": "beige",
+    "price": 115
+  },
+  {
+    "id": 13,
+    "name": "V-Neck Black T-shirt",
+    "type": "T-shirts",
+    "color": "black",
+    "price": 80
+  },
+  {
+    "id": 14,
+    "name": "Navy Blue Zip Hoodie",
+    "type": "Hoodie",
+    "color": "navy",
+    "price": 135
+  },
+  {
+    "id": 15,
+    "name": "Ripped Skinny Jeans",
+    "type": "Jeans",
+    "color": "gray",
+    "price": 140
+  },
+  {
+    "id": 16,
+    "name": "Plaid Flannel Shirt",
+    "type": "Shirts",
+    "color": "red/black",
+    "price": 100
+  },
+  {
+    "id": 17,
+    "name": "Khaki Cargo Shorts",
+    "type": "Shorts",
+    "color": "khaki",
+    "price": 90
+  },
+  {
+    "id": 18,
+    "name": "Slim Fit Grey Trousers",
+    "type": "Trousers",
+    "color": "grey",
+    "price": 125
+  },
+  {
+    "id": 19,
+    "name": "Graphic Print T-shirt",
+    "type": "T-shirts",
+    "color": "multicolor",
+    "price": 95
+  },
+  {
+    "id": 20,
+    "name": "Green Fleece Hoodie",
+    "type": "Hoodie",
+    "color": "green",
+    "price": 130
+  },
+  {
+    "id": 21,
+    "name": "Distressed Dark Jeans",
+    "type": "Jeans",
+    "color": "dark blue",
+    "price": 135
+  },
+  {
+    "id": 22,
+    "name": "Checked Casual Shirt",
+    "type": "Shirts",
+    "color": "blue/white",
+    "price": 105
+  },
+  {
+    "id": 23,
+    "name": "Cotton Jogger Shorts",
+    "type": "Shorts",
+    "color": "navy",
+    "price": 95
+  },
+  {
+    "id": 24,
+    "name": "Black Tailored Trousers",
+    "type": "Trousers",
+    "color": "black",
+    "price": 140
+  },
+  {
+    "id": 25,
+    "name": "Basic Grey T-shirt",
+    "type": "T-shirts",
+    "color": "grey",
+    "price": 85
+  },
+  {
+    "id": 26,
+    "name": "Purple Knit Hoodie",
+    "type": "Hoodie",
+    "color": "purple",
+    "price": 120
+  },
+  {
+    "id": 27,
+    "name": "Light Wash Jeans",
+    "type": "Jeans",
+    "color": "light blue",
+    "price": 125
+  },
+  {
+    "id": 28,
+    "name": "Oxford Button Shirt",
+    "type": "Shirts",
+    "color": "pink",
+    "price": 110
+  },
+  {
+    "id": 29,
+    "name": "Athletic Running Shorts",
+    "type": "Shorts",
+    "color": "red",
+    "price": 80
+  },
+  {
+    "id": 30,
+    "name": "Wool Blend Trousers",
+    "type": "Trousers",
+    "color": "charcoal",
+    "price": 135
+  },
+  {
+    "id": 31,
+    "name": "Long Sleeve White T-shirt",
+    "type": "T-shirts",
+    "color": "white",
+    "price": 95
+  },
+  {
+    "id": 32,
+    "name": "Lightweight Grey Hoodie",
+    "type": "Hoodie",
+    "color": "grey",
+    "price": 115
+  },
+  {
+    "id": 33,
+    "name": "Regular Fit Black Jeans",
+    "type": "Jeans",
+    "color": "black",
+    "price": 128
+  },
+  {
+    "id": 34,
+    "name": "Short Sleeve Blue Shirt",
+    "type": "Shirts",
+    "color": "blue",
+    "price": 98
+  },
+  {
+    "id": 35,
+    "name": "Navy Chino Shorts",
+    "type": "Shorts",
+    "color": "navy",
+    "price": 88
+  },
+  {
+    "id": 36,
+    "name": "Dark Grey Dress Trousers",
+    "type": "Trousers",
+    "color": "dark grey",
+    "price": 130
+  },
+  {
+    "id": 37,
+    "name": "Maroon Crew Neck T-shirt",
+    "type": "T-shirts",
+    "color": "maroon",
+    "price": 92
+  },
+  {
+    "id": 38,
+    "name": "Olive Green Pullover Hoodie",
+    "type": "Hoodie",
+    "color": "olive green",
+    "price": 122
+  },
+  {
+    "id": 39,
+    "name": "Faded Black Jeans",
+    "type": "Jeans",
+    "color": "faded black",
+    "price": 132
+  },
+  {
+    "id": 40,
+    "name": "Denim Button-Up Shirt",
+    "type": "Shirts",
+    "color": "denim",
+    "price": 112
+  },
+  {
+    "id": 41,
+    "name": "Tan Cargo Shorts",
+    "type": "Shorts",
+    "color": "tan",
+    "price": 92
+  },
+  {
+    "id": 42,
+    "name": "Patterned Linen Trousers",
+    "type": "Trousers",
+    "color": "patterned",
+    "price": 118
+  },
+  {
+    "id": 43,
+    "name": "Light Blue Pocket T-shirt",
+    "type": "T-shirts",
+    "color": "light blue",
+    "price": 88
+  },
+  {
+    "id": 44,
+    "name": "Burgundy Hooded Sweatshirt",
+    "type": "Hoodie",
+    "color": "burgundy",
+    "price": 128
+  },
+  {
+    "id": 45,
+    "name": "Stonewash Blue Jeans",
+    "type": "Jeans",
+    "color": "stonewash blue",
+    "price": 138
+  },
+  {
+    "id": 46,
+    "name": "Floral Print Summer Shirt",
+    "type": "Shirts",
+    "color": "floral",
+    "price": 108
+  },
+  {
+    "id": 47,
+    "name": "Grey Athletic Shorts",
+    "type": "Shorts",
+    "color": "grey",
+    "price": 88
+  },
+  {
+    "id": 48,
+    "name": "Cuffed Ankle Trousers",
+    "type": "Trousers",
+    "color": "black",
+    "price": 128
+  },
+  {
+    "id": 49,
+    "name": "Mustard Yellow T-shirt",
+    "type": "T-shirts",
+    "color": "mustard yellow",
+    "price": 98
+  },
+  {
+    "id": 50,
+    "name": "Teal Oversized Hoodie",
+    "type": "Hoodie",
+    "color": "teal",
+    "price": 138
+  }
+]
