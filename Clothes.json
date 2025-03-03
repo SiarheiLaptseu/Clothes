@@ -1,352 +1,402 @@
 [
   {
     "id": 1,
-    "name": "Classic White T-shirt",
-    "type": "T-shirts",
-    "color": "white",
-    "price": 85
+    "name": "Slim Fit Jeans",
+    "type": "Jeans",
+    "size": "Medium",
+    "color": "Blue",
+    "price": 79.99
   },
   {
     "id": 2,
-    "name": "Black Oversized Hoodie",
-    "type": "Hoodie",
-    "color": "black",
-    "price": 110
+    "name": "Basic Cotton T-Shirt",
+    "type": "T-Shirt",
+    "size": "Large",
+    "color": "White",
+    "price": 19.99
   },
   {
     "id": 3,
-    "name": "Slim Fit Blue Jeans",
-    "type": "Jeans",
-    "color": "blue",
-    "price": 120
+    "name": "Classic Denim Jacket",
+    "type": "Jacket",
+    "size": "Small",
+    "color": "Blue",
+    "price": 129.99
   },
   {
     "id": 4,
-    "name": "Summer Linen Shirt",
-    "type": "Shirts",
-    "color": "light blue",
-    "price": 95
+    "name": "Striped Linen Shirt",
+    "type": "Shirt",
+    "size": "Medium",
+    "color": "Light blue",
+    "price": 59.99
   },
   {
     "id": 5,
-    "name": "Gray Casual Shorts",
-    "type": "Shorts",
-    "color": "gray",
-    "price": 80
+    "name": "Wool Blend Sweater",
+    "type": "Sweater",
+    "size": "Large",
+    "color": "Grey",
+    "price": 89.99
   },
   {
     "id": 6,
-    "name": "Green Cargo Trousers",
-    "type": "Trousers",
-    "color": "green",
-    "price": 105
+    "name": "Cargo Pants",
+    "type": "Pants",
+    "size": "Small",
+    "color": "Green",
+    "price": 69.99
   },
   {
     "id": 7,
-    "name": "Striped Cotton T-shirt",
-    "type": "T-shirts",
-    "color": "navy/white",
-    "price": 90
+    "name": "Floral Print Dress",
+    "type": "Dress",
+    "size": "Medium",
+    "color": "Pink",
+    "price": 99.99
   },
   {
     "id": 8,
-    "name": "Red Pullover Hoodie",
-    "type": "Hoodie",
-    "color": "red",
-    "price": 125
+    "name": "Leather Belt",
+    "type": "Accessory",
+    "size": "Medium",
+    "color": "Black",
+    "price": 39.99
   },
   {
     "id": 9,
-    "name": "Black Straight Jeans",
-    "type": "Jeans",
-    "color": "black",
-    "price": 130
+    "name": "Chino Shorts",
+    "type": "Shorts",
+    "size": "Large",
+    "color": "Beige",
+    "price": 49.99
   },
   {
     "id": 10,
-    "name": "White Button-Down Shirt",
-    "type": "Shirts",
-    "color": "white",
-    "price": 115
+    "name": "Padded Vest",
+    "type": "Vest",
+    "size": "Small",
+    "color": "Black",
+    "price": 79.99
   },
   {
     "id": 11,
-    "name": "Denim Casual Shorts",
-    "type": "Shorts",
-    "color": "denim blue",
-    "price": 85
+    "name": "Oversized Hoodie",
+    "type": "Hoodie",
+    "size": "Large",
+    "color": "Red",
+    "price": 69.99
   },
   {
     "id": 12,
-    "name": "Beige Chino Trousers",
-    "type": "Trousers",
-    "color": "beige",
-    "price": 115
+    "name": "Corduroy Shirt",
+    "type": "Shirt",
+    "size": "Medium",
+    "color": "Orange",
+    "price": 64.99
   },
   {
     "id": 13,
-    "name": "V-Neck Black T-shirt",
-    "type": "T-shirts",
-    "color": "black",
-    "price": 80
+    "name": "Pleated Skirt",
+    "type": "Skirt",
+    "size": "Small",
+    "color": "Violet",
+    "price": 54.99
   },
   {
     "id": 14,
-    "name": "Navy Blue Zip Hoodie",
-    "type": "Hoodie",
-    "color": "navy",
-    "price": 135
+    "name": "Silk Scarf",
+    "type": "Accessory",
+    "size": "Small",
+    "color": "Yellow",
+    "price": 44.99
   },
   {
     "id": 15,
-    "name": "Ripped Skinny Jeans",
-    "type": "Jeans",
-    "color": "gray",
-    "price": 140
+    "name": "Tracksuit Bottoms",
+    "type": "Pants",
+    "size": "Medium",
+    "color": "Black",
+    "price": 59.99
   },
   {
     "id": 16,
-    "name": "Plaid Flannel Shirt",
-    "type": "Shirts",
-    "color": "red/black",
-    "price": 100
+    "name": "Bomber Jacket",
+    "type": "Jacket",
+    "size": "Large",
+    "color": "Green",
+    "price": 149.99
   },
   {
     "id": 17,
-    "name": "Khaki Cargo Shorts",
-    "type": "Shorts",
-    "color": "khaki",
-    "price": 90
+    "name": "Tank Top",
+    "type": "Top",
+    "size": "Small",
+    "color": "White",
+    "price": 14.99
   },
   {
     "id": 18,
-    "name": "Slim Fit Grey Trousers",
-    "type": "Trousers",
-    "color": "grey",
-    "price": 125
+    "name": "Wide Leg Trousers",
+    "type": "Pants",
+    "size": "Medium",
+    "color": "Grey",
+    "price": 74.99
   },
   {
     "id": 19,
-    "name": "Graphic Print T-shirt",
-    "type": "T-shirts",
-    "color": "multicolor",
-    "price": 95
+    "name": "Maxi Dress",
+    "type": "Dress",
+    "size": "Large",
+    "color": "Blue",
+    "price": 119.99
   },
   {
     "id": 20,
-    "name": "Green Fleece Hoodie",
-    "type": "Hoodie",
-    "color": "green",
-    "price": 130
+    "name": "Baseball Cap",
+    "type": "Accessory",
+    "size": "Medium",
+    "color": "Black",
+    "price": 29.99
   },
   {
     "id": 21,
-    "name": "Distressed Dark Jeans",
+    "name": "Ripped Jeans",
     "type": "Jeans",
-    "color": "dark blue",
-    "price": 135
+    "size": "Small",
+    "color": "Light blue",
+    "price": 84.99
   },
   {
     "id": 22,
-    "name": "Checked Casual Shirt",
-    "type": "Shirts",
-    "color": "blue/white",
-    "price": 105
+    "name": "Graphic Print T-Shirt",
+    "type": "T-Shirt",
+    "size": "Large",
+    "color": "White",
+    "price": 24.99
   },
   {
     "id": 23,
-    "name": "Cotton Jogger Shorts",
-    "type": "Shorts",
-    "color": "navy",
-    "price": 95
+    "name": "Leather Biker Jacket",
+    "type": "Jacket",
+    "size": "Medium",
+    "color": "Black",
+    "price": 249.99
   },
   {
     "id": 24,
-    "name": "Black Tailored Trousers",
-    "type": "Trousers",
-    "color": "black",
-    "price": 140
+    "name": "Flannel Shirt",
+    "type": "Shirt",
+    "size": "Small",
+    "color": "Red",
+    "price": 59.99
   },
   {
     "id": 25,
-    "name": "Basic Grey T-shirt",
-    "type": "T-shirts",
-    "color": "grey",
-    "price": 85
+    "name": "Cable Knit Sweater",
+    "type": "Sweater",
+    "size": "Large",
+    "color": "Blue",
+    "price": 94.99
   },
   {
     "id": 26,
-    "name": "Purple Knit Hoodie",
-    "type": "Hoodie",
-    "color": "purple",
-    "price": 120
+    "name": "Joggers",
+    "type": "Pants",
+    "size": "Medium",
+    "color": "Grey",
+    "price": 49.99
   },
   {
     "id": 27,
-    "name": "Light Wash Jeans",
-    "type": "Jeans",
-    "color": "light blue",
-    "price": 125
+    "name": "Cocktail Dress",
+    "type": "Dress",
+    "size": "Small",
+    "color": "Black",
+    "price": 139.99
   },
   {
     "id": 28,
-    "name": "Oxford Button Shirt",
-    "type": "Shirts",
-    "color": "pink",
-    "price": 110
+    "name": "Suede Belt",
+    "type": "Accessory",
+    "size": "Medium",
+    "color": "Brown",
+    "price": 44.99
   },
   {
     "id": 29,
-    "name": "Athletic Running Shorts",
+    "name": "Denim Shorts",
     "type": "Shorts",
-    "color": "red",
-    "price": 80
+    "size": "Large",
+    "color": "Blue",
+    "price": 39.99
   },
   {
     "id": 30,
-    "name": "Wool Blend Trousers",
-    "type": "Trousers",
-    "color": "charcoal",
-    "price": 135
+    "name": "Down Jacket",
+    "type": "Jacket",
+    "size": "Medium",
+    "color": "Blue",
+    "price": 179.99
   },
   {
     "id": 31,
-    "name": "Long Sleeve White T-shirt",
-    "type": "T-shirts",
-    "color": "white",
-    "price": 95
+    "name": "Striped T-shirt",
+    "type": "T-Shirt",
+    "size": "Small",
+    "color": "Green",
+    "price": 22.5
   },
   {
     "id": 32,
-    "name": "Lightweight Grey Hoodie",
-    "type": "Hoodie",
-    "color": "grey",
-    "price": 115
+    "name": "Corduroy Trousers",
+    "type": "Pants",
+    "size": "Large",
+    "color": "Orange",
+    "price": 75
   },
   {
     "id": 33,
-    "name": "Regular Fit Black Jeans",
-    "type": "Jeans",
-    "color": "black",
-    "price": 128
+    "name": "Silk Blouse",
+    "type": "Shirt",
+    "size": "Medium",
+    "color": "Pink",
+    "price": 88
   },
   {
     "id": 34,
-    "name": "Short Sleeve Blue Shirt",
-    "type": "Shirts",
-    "color": "blue",
-    "price": 98
+    "name": "Knit Cardigan",
+    "type": "Sweater",
+    "size": "Small",
+    "color": "Violet",
+    "price": 95.5
   },
   {
     "id": 35,
-    "name": "Navy Chino Shorts",
-    "type": "Shorts",
-    "color": "navy",
-    "price": 88
+    "name": "Linen Dress",
+    "type": "Dress",
+    "size": "Large",
+    "color": "Light blue",
+    "price": 110
   },
   {
     "id": 36,
-    "name": "Dark Grey Dress Trousers",
-    "type": "Trousers",
-    "color": "dark grey",
-    "price": 130
+    "name": "Canvas Belt",
+    "type": "Accessory",
+    "size": "Medium",
+    "color": "White",
+    "price": 35
   },
   {
     "id": 37,
-    "name": "Maroon Crew Neck T-shirt",
-    "type": "T-shirts",
-    "color": "maroon",
-    "price": 92
+    "name": "Cotton Shorts",
+    "type": "Shorts",
+    "size": "Small",
+    "color": "Red",
+    "price": 42.75
   },
   {
     "id": 38,
-    "name": "Olive Green Pullover Hoodie",
-    "type": "Hoodie",
-    "color": "olive green",
-    "price": 122
+    "name": "Fleece Vest",
+    "type": "Vest",
+    "size": "Large",
+    "color": "Blue",
+    "price": 68.25
   },
   {
     "id": 39,
-    "name": "Faded Black Jeans",
-    "type": "Jeans",
-    "color": "faded black",
-    "price": 132
+    "name": "Thermal Hoodie",
+    "type": "Hoodie",
+    "size": "Medium",
+    "color": "Black",
+    "price": 72
   },
   {
     "id": 40,
-    "name": "Denim Button-Up Shirt",
-    "type": "Shirts",
-    "color": "denim",
-    "price": 112
+    "name": "Twill Shirt",
+    "type": "Shirt",
+    "size": "Small",
+    "color": "Yellow",
+    "price": 60.5
   },
   {
     "id": 41,
-    "name": "Tan Cargo Shorts",
-    "type": "Shorts",
-    "color": "tan",
-    "price": 92
+    "name": "A-Line Skirt",
+    "type": "Skirt",
+    "size": "Large",
+    "color": "Green",
+    "price": 58
   },
   {
     "id": 42,
-    "name": "Patterned Linen Trousers",
-    "type": "Trousers",
-    "color": "patterned",
-    "price": 118
+    "name": "Cashmere Scarf",
+    "type": "Accessory",
+    "size": "Medium",
+    "color": "Grey",
+    "price": 120
   },
   {
     "id": 43,
-    "name": "Light Blue Pocket T-shirt",
-    "type": "T-shirts",
-    "color": "light blue",
-    "price": 88
+    "name": "Sweatpants",
+    "type": "Pants",
+    "size": "Small",
+    "color": "Blue",
+    "price": 55.5
   },
   {
     "id": 44,
-    "name": "Burgundy Hooded Sweatshirt",
-    "type": "Hoodie",
-    "color": "burgundy",
-    "price": 128
+    "name": "Rain Jacket",
+    "type": "Jacket",
+    "size": "Large",
+    "color": "Yellow",
+    "price": 135
   },
   {
     "id": 45,
-    "name": "Stonewash Blue Jeans",
-    "type": "Jeans",
-    "color": "stonewash blue",
-    "price": 138
+    "name": "Muscle Tank",
+    "type": "Top",
+    "size": "Medium",
+    "color": "Black",
+    "price": 18.75
   },
   {
     "id": 46,
-    "name": "Floral Print Summer Shirt",
-    "type": "Shirts",
-    "color": "floral",
-    "price": 108
+    "name": "Straight Leg Jeans",
+    "type": "Jeans",
+    "size": "Small",
+    "color": "Blue",
+    "price": 82.5
   },
   {
     "id": 47,
-    "name": "Grey Athletic Shorts",
-    "type": "Shorts",
-    "color": "grey",
-    "price": 88
+    "name": "Polo Shirt",
+    "type": "Shirt",
+    "size": "Large",
+    "color": "Red",
+    "price": 48
   },
   {
     "id": 48,
-    "name": "Cuffed Ankle Trousers",
-    "type": "Trousers",
-    "color": "black",
-    "price": 128
+    "name": "Turtleneck Sweater",
+    "type": "Sweater",
+    "size": "Medium",
+    "color": "White",
+    "price": 91.25
   },
   {
     "id": 49,
-    "name": "Mustard Yellow T-shirt",
-    "type": "T-shirts",
-    "color": "mustard yellow",
-    "price": 98
+    "name": "Wrap Dress",
+    "type": "Dress",
+    "size": "Small",
+    "color": "Orange",
+    "price": 105.5
   },
   {
     "id": 50,
-    "name": "Teal Oversized Hoodie",
-    "type": "Hoodie",
-    "color": "teal",
-    "price": 138
+    "name": "Winter Hat",
+    "type": "Accessory",
+    "size": "Medium",
+    "color": "Grey",
+    "price": 27
   }
 ]
