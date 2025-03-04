@@ -1,402 +1,452 @@
 [
   {
     "id": 1,
-    "name": "Slim Fit Jeans",
-    "type": "Jeans",
+    "name": "Classic Cotton T-Shirt",
+    "type": "T-shirts",
     "size": "Medium",
     "color": "Blue",
-    "price": 79.99
+    "price": 19.99,
+    "imageUrl": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D"
   },
   {
     "id": 2,
-    "name": "Basic Cotton T-Shirt",
-    "type": "T-Shirt",
-    "size": "Large",
-    "color": "White",
-    "price": 19.99
+    "name": "Denim Shorts",
+    "type": "Shorts",
+    "size": "Small",
+    "color": "Light blue",
+    "price": 29.5,
+    "imageUrl": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U2hvcnRzfGVufDB8fDB8fHww"
   },
   {
     "id": 3,
-    "name": "Classic Denim Jacket",
-    "type": "Jacket",
-    "size": "Small",
-    "color": "Blue",
-    "price": 129.99
+    "name": "Slim Fit Jeans",
+    "type": "Jeans",
+    "size": "Large",
+    "color": "Black",
+    "price": 49.99,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1674828601362-afb73c907ebe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SmVhbnN8ZW58MHx8MHx8fDA%3D"
   },
   {
     "id": 4,
-    "name": "Striped Linen Shirt",
-    "type": "Shirt",
-    "size": "Medium",
-    "color": "Light blue",
-    "price": 59.99
+    "name": "Comfort Hoodie",
+    "type": "Hoodie",
+    "size": "X-Large",
+    "color": "Green",
+    "price": 39.75,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1673356302169-574db56b52cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SG9vZGllfGVufDB8fDB8fHww"
   },
   {
     "id": 5,
-    "name": "Wool Blend Sweater",
-    "type": "Sweater",
-    "size": "Large",
+    "name": "Formal Trousers",
+    "type": "Trousers",
+    "size": "Medium",
     "color": "Grey",
-    "price": 89.99
+    "price": 55,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1675034372363-aefe8d1e35ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8VHJvdXNlcnN8ZW58MHx8MHx8fDA%3D"
   },
   {
     "id": 6,
-    "name": "Cargo Pants",
-    "type": "Pants",
+    "name": "Casual Linen Shirt",
+    "type": "Shirts",
     "size": "Small",
-    "color": "Green",
-    "price": 69.99
+    "color": "White",
+    "price": 32.25,
+    "imageUrl": "https://images.unsplash.com/photo-1602810317536-5d5e8a552d15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fFNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D"
   },
   {
     "id": 7,
-    "name": "Floral Print Dress",
-    "type": "Dress",
-    "size": "Medium",
-    "color": "Pink",
-    "price": 99.99
+    "name": "Crew Neck T-Shirt",
+    "type": "T-shirts",
+    "size": "X-Small",
+    "color": "Red",
+    "price": 17.5,
+    "imageUrl": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 8,
-    "name": "Leather Belt",
-    "type": "Accessory",
-    "size": "Medium",
-    "color": "Black",
-    "price": 39.99
+    "name": "Cargo Shorts",
+    "type": "Shorts",
+    "size": "Large",
+    "color": "Green",
+    "price": 35,
+    "imageUrl": "https://images.unsplash.com/photo-1691315909393-c5c91e22760f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFNob3J0c3xlbnwwfHwwfHx8MA%3D%3D"
   },
   {
     "id": 9,
-    "name": "Chino Shorts",
-    "type": "Shorts",
-    "size": "Large",
-    "color": "Beige",
-    "price": 49.99
+    "name": "Ripped Skinny Jeans",
+    "type": "Jeans",
+    "size": "Medium",
+    "color": "Blue",
+    "price": 59.99,
+    "imageUrl": "https://images.unsplash.com/photo-1602293589930-45aad59ba3ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SmVhbnN8ZW58MHx8MHx8fDA%3D"
   },
   {
     "id": 10,
-    "name": "Padded Vest",
-    "type": "Vest",
+    "name": "Fleece Hoodie",
+    "type": "Hoodie",
     "size": "Small",
     "color": "Black",
-    "price": 79.99
+    "price": 45.5,
+    "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SG9vZGllfGVufDB8fDB8fHww"
   },
   {
     "id": 11,
-    "name": "Oversized Hoodie",
-    "type": "Hoodie",
-    "size": "Large",
-    "color": "Red",
-    "price": 69.99
+    "name": "Chino Trousers",
+    "type": "Trousers",
+    "size": "X-Large",
+    "color": "Beige",
+    "price": 48,
+    "imageUrl": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VHJvdXNlcnN8ZW58MHx8MHx8fDA%3D"
   },
   {
     "id": 12,
-    "name": "Corduroy Shirt",
-    "type": "Shirt",
+    "name": "Flannel Shirt",
+    "type": "Shirts",
     "size": "Medium",
-    "color": "Orange",
-    "price": 64.99
+    "color": "Red",
+    "price": 38.75,
+    "imageUrl": "https://images.unsplash.com/photo-1602810318660-d2c46b750f88?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fFNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D"
   },
   {
     "id": 13,
-    "name": "Pleated Skirt",
-    "type": "Skirt",
-    "size": "Small",
-    "color": "Violet",
-    "price": 54.99
+    "name": "V-Neck T-Shirt",
+    "type": "T-shirts",
+    "size": "Large",
+    "color": "White",
+    "price": 22,
+    "imageUrl": "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dCUyMHNoaXJ0fGVufDB8fDB8fHww"
   },
   {
     "id": 14,
-    "name": "Silk Scarf",
-    "type": "Accessory",
-    "size": "Small",
-    "color": "Yellow",
-    "price": 44.99
+    "name": "Sport Shorts",
+    "type": "Shorts",
+    "size": "Medium",
+    "color": "Black",
+    "price": 27.5,
+    "imageUrl": "https://images.unsplash.com/photo-1659616132551-6aa183847201?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fFNob3J0c3xlbnwwfHwwfHx8MA%3D%3D"
   },
   {
     "id": 15,
-    "name": "Tracksuit Bottoms",
-    "type": "Pants",
-    "size": "Medium",
-    "color": "Black",
-    "price": 59.99
-  },
-  {
-    "id": 16,
-    "name": "Bomber Jacket",
-    "type": "Jacket",
-    "size": "Large",
-    "color": "Green",
-    "price": 149.99
-  },
-  {
-    "id": 17,
-    "name": "Tank Top",
-    "type": "Top",
-    "size": "Small",
-    "color": "White",
-    "price": 14.99
-  },
-  {
-    "id": 18,
-    "name": "Wide Leg Trousers",
-    "type": "Pants",
-    "size": "Medium",
-    "color": "Grey",
-    "price": 74.99
-  },
-  {
-    "id": 19,
-    "name": "Maxi Dress",
-    "type": "Dress",
-    "size": "Large",
-    "color": "Blue",
-    "price": 119.99
-  },
-  {
-    "id": 20,
-    "name": "Baseball Cap",
-    "type": "Accessory",
-    "size": "Medium",
-    "color": "Black",
-    "price": 29.99
-  },
-  {
-    "id": 21,
-    "name": "Ripped Jeans",
-    "type": "Jeans",
-    "size": "Small",
-    "color": "Light blue",
-    "price": 84.99
-  },
-  {
-    "id": 22,
-    "name": "Graphic Print T-Shirt",
-    "type": "T-Shirt",
-    "size": "Large",
-    "color": "White",
-    "price": 24.99
-  },
-  {
-    "id": 23,
-    "name": "Leather Biker Jacket",
-    "type": "Jacket",
-    "size": "Medium",
-    "color": "Black",
-    "price": 249.99
-  },
-  {
-    "id": 24,
-    "name": "Flannel Shirt",
-    "type": "Shirt",
-    "size": "Small",
-    "color": "Red",
-    "price": 59.99
-  },
-  {
-    "id": 25,
-    "name": "Cable Knit Sweater",
-    "type": "Sweater",
-    "size": "Large",
-    "color": "Blue",
-    "price": 94.99
-  },
-  {
-    "id": 26,
-    "name": "Joggers",
-    "type": "Pants",
-    "size": "Medium",
-    "color": "Grey",
-    "price": 49.99
-  },
-  {
-    "id": 27,
-    "name": "Cocktail Dress",
-    "type": "Dress",
-    "size": "Small",
-    "color": "Black",
-    "price": 139.99
-  },
-  {
-    "id": 28,
-    "name": "Suede Belt",
-    "type": "Accessory",
-    "size": "Medium",
-    "color": "Brown",
-    "price": 44.99
-  },
-  {
-    "id": 29,
-    "name": "Denim Shorts",
-    "type": "Shorts",
-    "size": "Large",
-    "color": "Blue",
-    "price": 39.99
-  },
-  {
-    "id": 30,
-    "name": "Down Jacket",
-    "type": "Jacket",
-    "size": "Medium",
-    "color": "Blue",
-    "price": 179.99
-  },
-  {
-    "id": 31,
-    "name": "Striped T-shirt",
-    "type": "T-Shirt",
-    "size": "Small",
-    "color": "Green",
-    "price": 22.5
-  },
-  {
-    "id": 32,
-    "name": "Corduroy Trousers",
-    "type": "Pants",
-    "size": "Large",
-    "color": "Orange",
-    "price": 75
-  },
-  {
-    "id": 33,
-    "name": "Silk Blouse",
-    "type": "Shirt",
-    "size": "Medium",
-    "color": "Pink",
-    "price": 88
-  },
-  {
-    "id": 34,
-    "name": "Knit Cardigan",
-    "type": "Sweater",
-    "size": "Small",
-    "color": "Violet",
-    "price": 95.5
-  },
-  {
-    "id": 35,
-    "name": "Linen Dress",
-    "type": "Dress",
-    "size": "Large",
-    "color": "Light blue",
-    "price": 110
-  },
-  {
-    "id": 36,
-    "name": "Canvas Belt",
-    "type": "Accessory",
-    "size": "Medium",
-    "color": "White",
-    "price": 35
-  },
-  {
-    "id": 37,
-    "name": "Cotton Shorts",
-    "type": "Shorts",
-    "size": "Small",
-    "color": "Red",
-    "price": 42.75
-  },
-  {
-    "id": 38,
-    "name": "Fleece Vest",
-    "type": "Vest",
-    "size": "Large",
-    "color": "Blue",
-    "price": 68.25
-  },
-  {
-    "id": 39,
-    "name": "Thermal Hoodie",
-    "type": "Hoodie",
-    "size": "Medium",
-    "color": "Black",
-    "price": 72
-  },
-  {
-    "id": 40,
-    "name": "Twill Shirt",
-    "type": "Shirt",
-    "size": "Small",
-    "color": "Yellow",
-    "price": 60.5
-  },
-  {
-    "id": 41,
-    "name": "A-Line Skirt",
-    "type": "Skirt",
-    "size": "Large",
-    "color": "Green",
-    "price": 58
-  },
-  {
-    "id": 42,
-    "name": "Cashmere Scarf",
-    "type": "Accessory",
-    "size": "Medium",
-    "color": "Grey",
-    "price": 120
-  },
-  {
-    "id": 43,
-    "name": "Sweatpants",
-    "type": "Pants",
-    "size": "Small",
-    "color": "Blue",
-    "price": 55.5
-  },
-  {
-    "id": 44,
-    "name": "Rain Jacket",
-    "type": "Jacket",
-    "size": "Large",
-    "color": "Yellow",
-    "price": 135
-  },
-  {
-    "id": 45,
-    "name": "Muscle Tank",
-    "type": "Top",
-    "size": "Medium",
-    "color": "Black",
-    "price": 18.75
-  },
-  {
-    "id": 46,
     "name": "Straight Leg Jeans",
     "type": "Jeans",
     "size": "Small",
+    "color": "Grey",
+    "price": 52,
+    "imageUrl": "https://images.unsplash.com/photo-1637069585336-827b298fe84a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8SmVhbnN8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 16,
+    "name": "Pullover Hoodie",
+    "type": "Hoodie",
+    "size": "X-Large",
     "color": "Blue",
-    "price": 82.5
+    "price": 42.99,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1673827311290-d435f481152e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8SG9vZGllfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 17,
+    "name": "Wool Trousers",
+    "type": "Trousers",
+    "size": "Large",
+    "color": "Black",
+    "price": 62.5,
+    "imageUrl": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VHJvdXNlcnN8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 18,
+    "name": "Oxford Shirt",
+    "type": "Shirts",
+    "size": "X-Small",
+    "color": "Blue",
+    "price": 40,
+    "imageUrl": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U2hpcnRzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 19,
+    "name": "Long Sleeve T-Shirt",
+    "type": "T-shirts",
+    "size": "Medium",
+    "color": "Black",
+    "price": 25,
+    "imageUrl": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 20,
+    "name": "Swim Shorts",
+    "type": "Shorts",
+    "size": "X-Large",
+    "color": "Light blue",
+    "price": 30,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1680184592790-f57390bb91e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fFNob3J0c3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 21,
+    "name": "Bootcut Jeans",
+    "type": "Jeans",
+    "size": "X-Large",
+    "color": "Dark blue",
+    "price": 65,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEplYW5zfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 22,
+    "name": "Zip-Up Hoodie",
+    "type": "Hoodie",
+    "size": "Medium",
+    "color": "Grey",
+    "price": 50,
+    "imageUrl": "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SG9vZGllfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 23,
+    "name": "Corduroy Trousers",
+    "type": "Trousers",
+    "size": "Small",
+    "color": "Brown",
+    "price": 58,
+    "imageUrl": "https://images.unsplash.com/photo-1519211777646-3a7ccf759b64?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8VHJvdXNlcnN8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 24,
+    "name": "Dress Shirt",
+    "type": "Shirts",
+    "size": "Large",
+    "color": "Pink",
+    "price": 45,
+    "imageUrl": "https://images.unsplash.com/photo-1603251579431-8041402bdeda?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fFNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 25,
+    "name": "Graphic T-Shirt",
+    "type": "T-shirts",
+    "size": "Small",
+    "color": "Yellow",
+    "price": 28,
+    "imageUrl": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 26,
+    "name": "Athletic Shorts",
+    "type": "Shorts",
+    "size": "X-Small",
+    "color": "Red",
+    "price": 33,
+    "imageUrl": "https://images.unsplash.com/photo-1585145197502-8f36802f0a26?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fFNob3J0c3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 27,
+    "name": "Distressed Jeans",
+    "type": "Jeans",
+    "size": "Large",
+    "color": "Light blue",
+    "price": 68,
+    "imageUrl": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fEplYW5zfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 28,
+    "name": "Oversized Hoodie",
+    "type": "Hoodie",
+    "size": "X-Small",
+    "color": "Violet",
+    "price": 53,
+    "imageUrl": "https://images.unsplash.com/photo-1564557287817-3785e38ec1f5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8SG9vZGllfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 29,
+    "name": "Pleated Trousers",
+    "type": "Trousers",
+    "size": "Medium",
+    "color": "Navy",
+    "price": 60,
+    "imageUrl": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8VHJvdXNlcnN8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 30,
+    "name": "Button-Down Shirt",
+    "type": "Shirts",
+    "size": "Small",
+    "color": "Orange",
+    "price": 48,
+    "imageUrl": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fFNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 31,
+    "name": "Ringer T-Shirt",
+    "type": "T-shirts",
+    "size": "X-Large",
+    "color": "Pink",
+    "price": 31,
+    "imageUrl": "https://images.unsplash.com/photo-1622470953794-aa9c70b0fb9d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 32,
+    "name": "Running Shorts",
+    "type": "Shorts",
+    "size": "Large",
+    "color": "White",
+    "price": 36,
+    "imageUrl": "https://images.unsplash.com/photo-1719473466836-ff9f5ebe0e1b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fFNob3J0c3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 33,
+    "name": "Selvedge Jeans",
+    "type": "Jeans",
+    "size": "Medium",
+    "color": "Indigo",
+    "price": 71,
+    "imageUrl": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEplYW5zfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 34,
+    "name": "Crop Hoodie",
+    "type": "Hoodie",
+    "size": "Small",
+    "color": "Light blue",
+    "price": 56,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1669125725661-24057fb671b9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEhvb2RpZXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 35,
+    "name": "Wide-Leg Trousers",
+    "type": "Trousers",
+    "size": "X-Large",
+    "color": "Green",
+    "price": 63,
+    "imageUrl": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8VHJvdXNlcnN8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 36,
+    "name": "Polo Shirt",
+    "type": "Shirts",
+    "size": "Medium",
+    "color": "Yellow",
+    "price": 51,
+    "imageUrl": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fFNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 37,
+    "name": "Tie-Dye T-Shirt",
+    "type": "T-shirts",
+    "size": "Large",
+    "color": "Violet",
+    "price": 34,
+    "imageUrl": "https://images.unsplash.com/photo-1583744946564-b52ac1c389c8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 38,
+    "name": "Board Shorts",
+    "type": "Shorts",
+    "size": "X-Large",
+    "color": "Orange",
+    "price": 39,
+    "imageUrl": "https://images.unsplash.com/photo-1729719762110-6ad6e60f4dbd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fFNob3J0c3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 39,
+    "name": "Carpenter Jeans",
+    "type": "Jeans",
+    "size": "X-Small",
+    "color": "Black",
+    "price": 74,
+    "imageUrl": "https://images.unsplash.com/photo-1475178626620-a4d074967452?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEplYW5zfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 40,
+    "name": "Track Hoodie",
+    "type": "Hoodie",
+    "size": "Medium",
+    "color": "White",
+    "price": 59,
+    "imageUrl": "https://images.unsplash.com/photo-1616030257764-0fe6a2f05138?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fEhvb2RpZXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 41,
+    "name": "Cuffed Trousers",
+    "type": "Trousers",
+    "size": "Large",
+    "color": "Grey",
+    "price": 66,
+    "imageUrl": "https://images.unsplash.com/photo-1493357335960-4583bfa6f8d9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFRyb3VzZXJzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 42,
+    "name": "Tuxedo Shirt",
+    "type": "Shirts",
+    "size": "X-Large",
+    "color": "Black",
+    "price": 54,
+    "imageUrl": "https://images.unsplash.com/photo-1624222244232-5f1ae13bbd53?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fFNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 43,
+    "name": "Muscle T-Shirt",
+    "type": "T-shirts",
+    "size": "X-Small",
+    "color": "Green",
+    "price": 37,
+    "imageUrl": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 44,
+    "name": "Bermuda Shorts",
+    "type": "Shorts",
+    "size": "Small",
+    "color": "Blue",
+    "price": 42,
+    "imageUrl": "https://images.unsplash.com/photo-1719473442915-016f3ebda79a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fFNob3J0c3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 45,
+    "name": "Bell Bottom Jeans",
+    "type": "Jeans",
+    "size": "Medium",
+    "color": "Blue",
+    "price": 77,
+    "imageUrl": "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fEplYW5zfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 46,
+    "name": "Embroidered Hoodie",
+    "type": "Hoodie",
+    "size": "X-Large",
+    "color": "Red",
+    "price": 62,
+    "imageUrl": "https://images.unsplash.com/photo-1578768079052-aa76e52ff62e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEhvb2RpZXxlbnwwfHwwfHx8MA%3D%3D"
   },
   {
     "id": 47,
-    "name": "Polo Shirt",
-    "type": "Shirt",
-    "size": "Large",
-    "color": "Red",
-    "price": 48
+    "name": "Drawstring Trousers",
+    "type": "Trousers",
+    "size": "Small",
+    "color": "Light blue",
+    "price": 69,
+    "imageUrl": "https://images.unsplash.com/photo-1612653829925-ca7c5095129f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fFRyb3VzZXJzfGVufDB8fDB8fHww"
   },
   {
     "id": 48,
-    "name": "Turtleneck Sweater",
-    "type": "Sweater",
+    "name": "Tank Top",
+    "type": "T-shirts",
     "size": "Medium",
-    "color": "White",
-    "price": 91.25
+    "color": "Orange",
+    "price": 40,
+    "imageUrl": "https://images.unsplash.com/photo-1564859228273-274232fdb516?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D"
   },
   {
     "id": 49,
-    "name": "Wrap Dress",
-    "type": "Dress",
-    "size": "Small",
-    "color": "Orange",
-    "price": 105.5
+    "name": "High-Waisted Jeans",
+    "type": "Jeans",
+    "size": "Large",
+    "color": "Light blue",
+    "price": 80,
+    "imageUrl": "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fEplYW5zfGVufDB8fDB8fHww"
   },
   {
     "id": 50,
-    "name": "Winter Hat",
-    "type": "Accessory",
-    "size": "Medium",
-    "color": "Grey",
-    "price": 27
+    "name": "Camp Collar Shirt",
+    "type": "Shirts",
+    "size": "X-Large",
+    "color": "Green",
+    "price": 75,
+    "imageUrl": "https://images.unsplash.com/photo-1647013629840-13c441a3221b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fFNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D"
   }
 ]
